@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>tokyonight</id>
+  <editorColorsScheme>Tokyo Night</editorColorsScheme>
+  <dark>true</dark>
+  <name>Tokyo Night</name>
+  <colors>
+    <color id="background" value="16161eff"/>
+    <color id="foreground" value="717c95ff"/>
+    <color id="text" value="414b6aff"/>
+    <color id="highlight" value="16161eff"/>
+    <color id="selectionBackground" value="3d59a1ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1e202eff"/>
+    <color id="secondaryBackground" value="101014ff"/>
+    <color id="disabled" value="16161eff"/>
+    <color id="contrast" value="16161eff"/>
+    <color id="tableSelected" value="16161eff"/>
+    <color id="secondBorder" value="101014ff"/>
+    <color id="treeSelection" value="1e202eff"/>
+    <color id="notifications" value="16161eff"/>
+    <color id="accent" value="3d59a1ff"/>
+    <color id="excluded" value="16161eff"/>
+  </colors>
+  <themeId>tokyonight</themeId>
+</mtTheme>

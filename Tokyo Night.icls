@@ -1,18 +1,19 @@
 <scheme name="Tokyo Night" version="142">
   <metaInfo>
-    <property name="created">2020-11-04T21:59:33</property>
+    <property name="created">2020-11-06T18:02:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-04T21:59:41</property>
+    <property name="modified">2020-11-06T18:03:13</property>
     <property name="originalScheme">Tokyo Night</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="41a6b5" />
     <option name="ANNOTATIONS_COLOR" value="a9b1d6" />
-    <option name="CARET_ROW_COLOR" value="12038" />
+    <option name="CARET_COLOR" value="a9b1d6" />
+    <option name="CARET_ROW_COLOR" value="1e202e" />
     <option name="DELETED_LINES_COLOR" value="f7768e" />
     <option name="DOCUMENTATION_COLOR" value="16161e" />
-    <option name="GUTTER_BACKGROUND" value="11627" />
+    <option name="GUTTER_BACKGROUND" value="1a1b26" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="41a6b5" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="455663" />
     <option name="INDENT_GUIDE" value="1e202f" />
@@ -21,11 +22,14 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737aa2" />
     <option name="MODIFIED_LINES_COLOR" value="e0af68" />
     <option name="PROMOTION_PANE" value="16161e" />
+    <option name="QUESTION_HINT" value="" />
     <option name="RECENT_LOCATIONS_SELECTION" value="16161e" />
     <option name="RIGHT_MARGIN_COLOR" value="363b54" />
     <option name="SELECTED_INDENT_GUIDE" value="363b54" />
     <option name="SELECTION_BACKGROUND" value="3d59a1" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="ScrollBar.hoverThumbColor" value="232536" />
+    <option name="ScrollBar.thumbColor" value="1e202e" />
     <option name="TAB_UNDERLINE" value="3d58a1" />
     <option name="TAB_UNDERLINE_INACTIVE" value="16161e" />
     <option name="TEARLINE_COLOR" value="363b54" />
@@ -366,30 +370,30 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="FOREGROUND" value="413736" />
-        <option name="BACKGROUND" value="664b3f" />
-        <option name="ERROR_STRIPE_COLOR" value="c49a5a" />
+        <option name="FOREGROUND" value="363821" />
+        <option name="BACKGROUND" value="53532c" />
+        <option name="ERROR_STRIPE_COLOR" value="363821" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="FOREGROUND" value="302838" />
-        <option name="BACKGROUND" value="302838" />
-        <option name="ERROR_STRIPE_COLOR" value="5e3b49" />
+        <option name="FOREGROUND" value="34212a" />
+        <option name="BACKGROUND" value="34212a" />
+        <option name="ERROR_STRIPE_COLOR" value="34212a" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="FOREGROUND" value="b2c3d" />
-        <option name="BACKGROUND" value="b2c3d" />
-        <option name="ERROR_STRIPE_COLOR" value="b2c3d" />
+        <option name="FOREGROUND" value="212b38" />
+        <option name="BACKGROUND" value="20303b" />
+        <option name="ERROR_STRIPE_COLOR" value="212b38" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="393c37" />
-        <option name="BACKGROUND" value="5a5240" />
-        <option name="ERROR_STRIPE_COLOR" value="716248" />
+        <option name="FOREGROUND" value="212b38" />
+        <option name="BACKGROUND" value="2c4353" />
+        <option name="ERROR_STRIPE_COLOR" value="212b38" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -649,7 +653,42 @@
         <option name="FOREGROUND" value="646e9c" />
       </value>
     </option>
+    <option name="PHP.ECHO">
+      <value>
+        <option name="FOREGROUND" value="7aa2f7" />
+      </value>
+    </option>
+    <option name="PHP.EXIT">
+      <value>
+        <option name="FOREGROUND" value="85353e" />
+      </value>
+    </option>
     <option name="PHP.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="bb9af7" />
+      </value>
+    </option>
+    <option name="PHP.MODIFIER">
+      <value>
+        <option name="FOREGROUND" value="9d7cd8" />
+      </value>
+    </option>
+    <option name="PHP.NULL">
+      <value>
+        <option name="FOREGROUND" value="fd914e" />
+      </value>
+    </option>
+    <option name="PHP.PRIMITIVE">
+      <value>
+        <option name="FOREGROUND" value="fd914e" />
+      </value>
+    </option>
+    <option name="PHP.STATIC_FINAL">
+      <value>
+        <option name="FOREGROUND" value="9d7cd8" />
+      </value>
+    </option>
+    <option name="PHP.THIS_SELF">
       <value>
         <option name="FOREGROUND" value="bb9af7" />
       </value>
@@ -661,7 +700,7 @@
     </option>
     <option name="PHP_CLASS">
       <value>
-        <option name="FOREGROUND" value="db9d7" />
+        <option name="FOREGROUND" value="e0af68" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -677,6 +716,11 @@
     <option name="PHP_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="bb9af7" />
+      </value>
+    </option>
+    <option name="PHP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="fd914e" />
       </value>
     </option>
     <option name="PHP_PRIMITIVE_TYPE_HINT">
@@ -738,7 +782,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b1d6" />
-        <option name="BACKGROUND" value="11627" />
+        <option name="BACKGROUND" value="1a1b26" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
