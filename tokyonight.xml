@@ -5,21 +5,21 @@
   <name>Tokyo Night</name>
   <colors>
     <color id="background" value="16161eff"/>
-    <color id="foreground" value="717c95ff"/>
-    <color id="text" value="414b6aff"/>
-    <color id="highlight" value="16161eff"/>
-    <color id="selectionBackground" value="3d59a1ff"/>
+    <color id="foreground" value="6e728dff"/>
+    <color id="text" value="6b7599ff"/>
+    <color id="highlight" value="282b3cff"/>
+    <color id="selectionBackground" value="1e202eff"/>
     <color id="selectionForeground" value="ffffffff"/>
     <color id="button" value="1e202eff"/>
     <color id="secondaryBackground" value="101014ff"/>
-    <color id="disabled" value="16161eff"/>
+    <color id="disabled" value="5a638cff"/>
     <color id="contrast" value="16161eff"/>
-    <color id="tableSelected" value="16161eff"/>
+    <color id="tableSelected" value="252838ff"/>
     <color id="secondBorder" value="101014ff"/>
     <color id="treeSelection" value="1e202eff"/>
     <color id="notifications" value="16161eff"/>
-    <color id="accent" value="3d59a1ff"/>
-    <color id="excluded" value="16161eff"/>
+    <color id="accent" value="7aa2f7ff"/>
+    <color id="excluded" value="5a638cff"/>
   </colors>
   <themeId>tokyonight</themeId>
 </mtTheme>
