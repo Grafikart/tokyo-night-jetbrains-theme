@@ -1,9 +1,9 @@
 <scheme name="Tokyo Night" version="142">
   <metaInfo>
-    <property name="created">2020-11-06T18:02:48</property>
+    <property name="created">2020-11-09T16:19:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-06T18:03:13</property>
+    <property name="modified">2020-11-09T16:19:21</property>
     <property name="originalScheme">Tokyo Night</property>
   </metaInfo>
   <colors>
@@ -43,7 +43,7 @@
   <attributes>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -63,7 +63,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
@@ -195,32 +195,32 @@
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -407,17 +407,17 @@
     </option>
     <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -442,22 +442,22 @@
     </option>
     <option name="HTTP_REQUEST_INPUT_FILE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_VALUE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PORT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -486,17 +486,17 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="JS.EXPORTED.VARIABLE">
@@ -519,6 +519,16 @@
         <option name="FOREGROUND" value="7dcfff" />
       </value>
     </option>
+    <option name="JS.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="e2bd3a" />
+      </value>
+    </option>
+    <option name="JS.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="9d7cd8" />
+      </value>
+    </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="db9d7" />
@@ -526,17 +536,17 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
@@ -599,34 +609,93 @@
         <option name="FOREGROUND" value="bb9af7" />
       </value>
     </option>
+    <option name="MARKDOWN_AUTO_LINK">
+      <value>
+        <option name="FOREGROUND" value="73daca" />
+        <option name="EFFECT_COLOR" value="73daca" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MARKDOWN_BOLD">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="c0caf5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="FOREGROUND" value="61bdf2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="61bdf2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="7aa2f7" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="7aa2f7" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="7aa2f7" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="7aa2f7" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="c0caf5" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value>
+        <option name="FOREGROUND" value="73daca" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_TITLE">
+      <value>
+        <option name="FOREGROUND" value="a9b1d6" />
       </value>
     </option>
     <option name="MARKDOWN_ORDERED_LIST">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="a9b1d6" />
       </value>
     </option>
     <option name="MARKDOWN_REFERENCE_LINK">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
+      </value>
+    </option>
+    <option name="MARKDOWN_STRIKE_THROUGH">
+      <value>
+        <option name="FOREGROUND" value="a9b1d6" />
+        <option name="EFFECT_COLOR" value="a9b1d6" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MARKDOWN_UNORDERED_LIST">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="a9b1d6" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -645,7 +714,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -660,7 +729,7 @@
     </option>
     <option name="PHP.EXIT">
       <value>
-        <option name="FOREGROUND" value="85353e" />
+        <option name="FOREGROUND" value="db4b4b" />
       </value>
     </option>
     <option name="PHP.FUNCTION">
@@ -705,7 +774,7 @@
     </option>
     <option name="PHP_CONCATENATION">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9dcc65" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
@@ -735,7 +804,7 @@
     </option>
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="RUNTIME_ERROR">
@@ -798,12 +867,12 @@
     </option>
     <option name="TS.TYPE_GUARD">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="TWIG_BRACKETS">
@@ -824,7 +893,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="9AA5CE" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
