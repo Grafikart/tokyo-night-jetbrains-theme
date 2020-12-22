@@ -1,9 +1,9 @@
 <scheme name="Tokyo Night" version="142">
   <metaInfo>
-    <property name="created">2020-12-22T23:40:03</property>
+    <property name="created">2020-12-22T23:53:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-22T23:40:32</property>
+    <property name="modified">2020-12-22T23:53:26</property>
     <property name="originalScheme">Tokyo Night</property>
   </metaInfo>
   <colors>
@@ -587,7 +587,7 @@
     </option>
     <option name="JS.PRIMITIVE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="ff9e66" />
       </value>
     </option>
     <option name="JS.THIS_SUPER">
