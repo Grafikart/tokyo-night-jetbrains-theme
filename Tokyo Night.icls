@@ -1,9 +1,9 @@
 <scheme name="Tokyo Night" version="142">
   <metaInfo>
-    <property name="created">2020-12-11T19:22:00</property>
-    <property name="ide">PhpStorm</property>
+    <property name="created">2020-12-22T23:28:05</property>
+    <property name="ide">Idea</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-11T19:23:12</property>
+    <property name="modified">2020-12-22T23:28:27</property>
     <property name="originalScheme">Tokyo Night</property>
   </metaInfo>
   <colors>
@@ -43,6 +43,11 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="363b54" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bb9af7" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="9aa5ce" />
@@ -66,6 +71,11 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9aa5ce" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c0caf5" />
       </value>
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
@@ -295,6 +305,11 @@
         <option name="FOREGROUND" value="c0cefc" />
       </value>
     </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="bb9af7" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="de5971" />
@@ -397,6 +412,12 @@
         <option name="FOREGROUND" value="212b38" />
         <option name="BACKGROUND" value="2c4353" />
         <option name="ERROR_STRIPE_COLOR" value="212b38" />
+      </value>
+    </option>
+    <option name="DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="e0af68" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -502,6 +523,28 @@
         <option name="FOREGROUND" value="9aa5ce" />
       </value>
     </option>
+    <option name="JAVA.IMPORT_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="JAVA.MODIFIER">
+      <value>
+        <option name="FOREGROUND" value="9d7cd8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="f7768e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
     <option name="JS.CONSOLE">
       <value>
         <option name="FOREGROUND" value="a9b1d6" />
@@ -539,7 +582,7 @@
     </option>
     <option name="JS.PRIMITIVE">
       <value>
-        <option name="FOREGROUND" value="ff9e64" />
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="JS.THIS_SUPER">
@@ -740,6 +783,11 @@
         <option name="FOREGROUND" value="646e9c" />
       </value>
     </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e0af68" />
+      </value>
+    </option>
     <option name="PHP.ECHO">
       <value>
         <option name="FOREGROUND" value="7aa2f7" />
@@ -904,6 +952,11 @@
       </value>
     </option>
     <option name="TWIG_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="bb9af7" />
+      </value>
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bb9af7" />
       </value>
