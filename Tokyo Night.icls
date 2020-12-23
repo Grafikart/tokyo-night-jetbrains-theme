@@ -1,9 +1,9 @@
 <scheme name="Tokyo Night" version="142">
   <metaInfo>
-    <property name="created">2020-12-22T23:53:06</property>
+    <property name="created">2020-12-23T21:58:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-22T23:53:26</property>
+    <property name="modified">2020-12-23T21:58:55</property>
     <property name="originalScheme">Tokyo Night</property>
   </metaInfo>
   <colors>
@@ -593,6 +593,12 @@
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e2bd3a" />
+      </value>
+    </option>
+    <option name="JS.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="9d7cd8" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
