@@ -426,6 +426,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="db4b4b" />
+        <option name="ERROR_STRIPE_COLOR" value="db4b4b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -456,6 +457,7 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="c97018" />
+        <option name="ERROR_STRIPE_COLOR" value="c97018" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -502,6 +504,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="db9d7" />
+        <option name="ERROR_STRIPE_COLOR" value="db9d7" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -884,6 +887,13 @@
         <option name="FOREGROUND" value="9d7cd8" />
       </value>
     </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="d599e2" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="FOREGROUND" value="9aa5ce" />
@@ -940,6 +950,7 @@
       <value>
         <option name="BACKGROUND" value="283357" />
         <option name="EFFECT_COLOR" value="e0af68" />
+        <option name="ERROR_STRIPE_COLOR" value="283357" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -975,6 +986,7 @@
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="646e9c" />
+        <option name="ERROR_STRIPE_COLOR" value="646e9c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -986,6 +998,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="e0af68" />
+        <option name="ERROR_STRIPE_COLOR" value="e0af68" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1000,6 +1013,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="db4b4b" />
+        <option name="ERROR_STRIPE_COLOR" value="db4b4b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
