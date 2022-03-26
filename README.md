@@ -6,7 +6,8 @@ A port of [Tokyo Night for VSCode](https://github.com/enkia/tokyo-night-vscode-t
 
 ![Preview](screenshot.png)
 
-## Differences between this one and the theme by [alexadhy](https://github.com/alexadhy/tokyonight-jetbrains)
+## Differences between this plugin and the one by [alexadhy](https://github.com/alexadhy/tokyonight-jetbrains)
 
 - This plugin doesn't includes UI theme (only color scheme).
 - This plugin is focused on PHPStorm supported languages
+- A bit more colors for PHP language
